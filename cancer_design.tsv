@@ -1,0 +1,109 @@
+sample	treatment
+A101D, melanoma	1
+A427, lung adenocarcinoma	0
+A549, lung adenocarcinoma	0
+ABC-1, lung adenocarcinoma	0
+CJM, melanoma	1
+COLO 792, melanoma	1
+COLO 829, melanoma	1
+COLO-679, melanoma	1
+COLO-783, melanoma	1
+COLO-800, melanoma	1
+COR-L105, lung adenocarcinoma	0
+Calu-3, lung adenocarcinoma	0
+DV-90, lung adenocarcinoma	0
+G-361, melanoma	1
+HCC-1171, lung adenocarcinoma	0
+HCC-1833, lung adenocarcinoma	0
+HCC-2108, lung adenocarcinoma	0
+HCC-44, lung adenocarcinoma	0
+HCC-78, lung adenocarcinoma	0
+HCC2935, lung adenocarcinoma	0
+HCC364, lung adenocarcinoma	0
+HCC4006, lung adenocarcinoma	0
+HCC461, lung adenocarcinoma	0
+HCC515, lung adenocarcinoma	0
+HCC827 GR5, lung adenocarcinoma	0
+HCC827, lung adenocarcinoma	0
+HMCB, melanoma	1
+HOP-62, lung adenocarcinoma	0
+HT-144, melanoma	1
+Hs 229.T, lung adenocarcinoma	0
+Hs 294T, melanoma	1
+Hs 600.T, melanoma	1
+Hs 618.T, lung adenocarcinoma	0
+Hs 688(A).T, melanoma	1
+Hs 834.T, melanoma	1
+Hs 839.T, melanoma	1
+Hs 852.T, melanoma	1
+Hs 895.T, melanoma	1
+Hs 934.T, melanoma	1
+Hs 936.T, melanoma	1
+Hs 939.T, melanoma	1
+IGR-1, melanoma	1
+IGR-37, melanoma	1
+IGR-39, melanoma	1
+LXF-289, lung adenocarcinoma	0
+MEL-HO, melanoma	1
+MOR/CPR, lung adenocarcinoma	0
+Malme-3M, melanoma	1
+MeWo, melanoma	1
+NCI-H1355, lung adenocarcinoma	0
+NCI-H1373, lung adenocarcinoma	0
+NCI-H1395, lung adenocarcinoma	0
+NCI-H1437, lung adenocarcinoma	0
+NCI-H1563, lung adenocarcinoma	0
+NCI-H1568, lung adenocarcinoma	0
+NCI-H1573, lung adenocarcinoma	0
+NCI-H1623, lung adenocarcinoma	0
+NCI-H1648, lung adenocarcinoma	0
+NCI-H1651, lung adenocarcinoma	0
+NCI-H1693, lung adenocarcinoma	0
+NCI-H1734, lung adenocarcinoma	0
+NCI-H1755, lung adenocarcinoma	0
+NCI-H1792, lung adenocarcinoma	0
+NCI-H1793, lung adenocarcinoma	0
+NCI-H1819, lung adenocarcinoma	0
+NCI-H1838, lung adenocarcinoma	0
+NCI-H1944, lung adenocarcinoma	0
+NCI-H1975, lung adenocarcinoma	0
+NCI-H2009, lung adenocarcinoma	0
+NCI-H2030, lung adenocarcinoma	0
+NCI-H2073, lung adenocarcinoma	0
+NCI-H2077, lung adenocarcinoma	0
+NCI-H2087, lung adenocarcinoma	0
+NCI-H2122, lung adenocarcinoma	0
+NCI-H2228, lung adenocarcinoma	0
+NCI-H2291, lung adenocarcinoma	0
+NCI-H23, lung adenocarcinoma	0
+NCI-H2342, lung adenocarcinoma	0
+NCI-H2347, lung adenocarcinoma	0
+NCI-H2405, lung adenocarcinoma	0
+NCI-H2887, lung adenocarcinoma	0
+NCI-H3122, lung adenocarcinoma	0
+NCI-H3255, lung adenocarcinoma	0
+NCI-H522, lung adenocarcinoma	0
+NCI-H650, lung adenocarcinoma	0
+NCI-H838, lung adenocarcinoma	0
+NCI-H854, lung adenocarcinoma	0
+PC-14, lung adenocarcinoma	0
+PC-9, lung adenocarcinoma	0
+RERF-LC-Ad1, lung adenocarcinoma	0
+RERF-LC-Ad2, lung adenocarcinoma	0
+RERF-LC-KJ, lung adenocarcinoma	0
+RERF-LC-MS, lung adenocarcinoma	0
+RPMI-7951, melanoma	1
+SH-4, melanoma	1
+SK-LU-1, lung adenocarcinoma	0
+SK-MEL-1, melanoma	1
+SK-MEL-24, melanoma	1
+SK-MEL-3, melanoma	1
+SK-MEL-31, melanoma	1
+UACC-257, melanoma	1
+UACC-62, melanoma	1
+WM-115, melanoma	1
+WM-266-4, melanoma	1
+WM-793, melanoma	1
+WM-88, melanoma	1
+WM1799, melanoma	1
+WM983B, melanoma	1
